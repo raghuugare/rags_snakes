@@ -1,5 +1,6 @@
 # Finding an approximation to the square-root of a number via the Newton-Raphson method.
 # Can be extended to find the n'th root of a number too!
+# We shall generalize this soon!
 x = int(raw_input('Approximation of Square-root via the Newton-Raphson method--Enter an integer: '))
 epsilon = 0.01
 guess = x/2.0
